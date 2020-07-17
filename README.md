@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='https://visitor-badge.glitch.me/badge?page_id=jwchan1996.jwchan1996'/>
+<img src='https://jwchan1996-visitor-badge.glitch.me/badge?page_id=jwchan1996.jwchan1996'/>
 
 <p align="center">
     <img src="https://i.loli.net/2020/07/09/6iBgu7A1coIsRzh.jpg"/>
@@ -18,6 +18,8 @@ This is **Jwchan**/**飘香豆腐** from China, base on Guangzhou.
 - 📫 You can find me on 
   - Blog posts: [https://jwchan.cn](https://jwchan.cn)
   - QQ: 741755613
+
+> Be interested in these art
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F2AA24?style=flat-square&logo=JavaScript&logoColor=000)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
