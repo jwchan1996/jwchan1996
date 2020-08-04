@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src='https://jwchan1996-visitor-badge.glitch.me/badge?page_id=jwchan1996.jwchan1996'/>
-
 <p align="center">
     <img src="https://i.loli.net/2020/07/09/6iBgu7A1coIsRzh.jpg"/>
 </p>
@@ -12,7 +10,6 @@
 
 This is **Jwchan**/**飘香豆腐** from China, base on Guangzhou.
 
-- 🔭 I’m currently working on [PPAP.admin](https://github.com/ppap6/PPAP.admin)
 - 🌱 I’m currently learning *react*, *typescript*, *flutter*
 - 😄 Expect: Raise skills && Live better
 - 📫 You can find me on 
@@ -31,3 +28,6 @@ This is **Jwchan**/**飘香豆腐** from China, base on Guangzhou.
 ![Flutter](https://img.shields.io/badge/-Flutter-4577ff?style=flat-square&logo=Flutter&logoColor=fff)
 ![Deno](https://img.shields.io/badge/-Deno-2F363D?style=flat-square&logo=Deno&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-D14836?style=flat-square&logo=Rust&logoColor=333)
+
+[![blog](https://github-readme-stats.vercel.app/api/pin/?username=jwchan1996&repo=blog)](https://github.com/jwchan1996/blog)
+[![PPAP.live](https://github-readme-stats.vercel.app/api/pin/?username=ppap6&repo=PPAP.live)](https://github.com/ppap6/PPAP.live)
