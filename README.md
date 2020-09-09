@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwchan1996&hide=html&layout=compact" />
     <img src="https://i.loli.net/2020/07/09/6iBgu7A1coIsRzh.jpg"/>
 </p>
 
