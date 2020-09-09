@@ -1,20 +1,13 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
     <img src="https://i.loli.net/2020/07/09/6iBgu7A1coIsRzh.jpg"/>
 </p>
 
 <p align="center">
   <code><i>Charged</i> and <i>Ready</i></code>
 </p>
-
-This is **Jwchan**/**飘香豆腐** from China, base on Guangzhou.
-
-- 🌱 I’m currently learning *react*, *typescript*, *flutter*
-- 😄 Expect: Raise skills && Live better
-- 📫 You can find me on 
-  - Blog posts: [https://jwchan.cn](https://jwchan.cn)
-  - QQ: 741755613
 
 > Be interested in these art
 
@@ -28,6 +21,14 @@ This is **Jwchan**/**飘香豆腐** from China, base on Guangzhou.
 ![Flutter](https://img.shields.io/badge/-Flutter-4577ff?style=flat-square&logo=Flutter&logoColor=fff)
 ![Deno](https://img.shields.io/badge/-Deno-2F363D?style=flat-square&logo=Deno&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-D14836?style=flat-square&logo=Rust&logoColor=333)
+
+This is **Jwchan**/**飘香豆腐** from China, base on Guangzhou.
+
+- 🌱 I’m currently learning *react*, *typescript*, *flutter*
+- 😄 Expect: Raise skills && Live better
+- 📫 You can find me on 
+  - Blog posts: [https://jwchan.cn](https://jwchan.cn)
+  - QQ: 741755613
 
 [![blog](https://github-readme-stats.vercel.app/api/pin/?username=jwchan1996&repo=blog)](https://github.com/jwchan1996/blog)
 [![PPAP.live](https://github-readme-stats.vercel.app/api/pin/?username=ppap6&repo=PPAP.live)](https://github.com/ppap6/PPAP.live)
