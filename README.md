@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwchan1996&hide=html&layout=compact" />
-    <img src="https://i.loli.net/2020/10/27/OFBdh9M4tSaIZl5.gif" style="height: 150px" />
+<p align="center">
+    <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwchan1996&hide=html&layout=compact" />-->
+    <img src="https://i.loli.net/2020/10/27/OFBdh9M4tSaIZl5.gif" style="width: 150px" />
 </p>
 
 <p align="center">
