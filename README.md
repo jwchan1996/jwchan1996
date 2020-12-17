@@ -2,7 +2,9 @@
 
 <p align="center">
     <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwchan1996&hide=html&layout=compact" />-->
-    <img src="https://i.loli.net/2020/10/27/OFBdh9M4tSaIZl5.gif" style="width: 150px" />
+    <img src="https://s3.ax1x.com/2020/12/17/r809yV.gif" style="width: 150px" />
+    <img src="https://s3.ax1x.com/2020/12/17/r80JfA.gif" />
+    <img src="https://s3.ax1x.com/2020/12/17/r80GYd.gif" />
 </p>
 
 <p align="center">
@@ -24,7 +26,7 @@
 
 This is **Jwchan**/**飘香豆腐** from China, base on Guangzhou.
 
-- 🌱 I’m currently learning *react*, *typescript*, *flutter*
+- 🌱 I’m currently learning *vue3*, *typescript*
 - 😄 Expect: Raise skills && Live better
 - 📫 You can find me on 
   - Blog posts: [https://jwchan.cn](https://jwchan.cn)
