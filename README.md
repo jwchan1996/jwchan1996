@@ -31,6 +31,6 @@ This is **Jwchan**/**飘香豆腐** from China, base on Guangzhou.
 - 📫 You can find me on QQ 741755613
 
 [![blog](https://github-readme-stats.vercel.app/api/pin/?username=jwchan1996&repo=blog)](https://github.com/jwchan1996/blog)
-[![PPAP.live](https://github-readme-stats.vercel.app/api/pin/?username=ppap6&repo=PPAP.live)](https://github.com/ppap6/PPAP.live)
 [![mini-vue](https://github-readme-stats.vercel.app/api/pin/?username=jwchan1996&repo=mini-vue)](https://github.com/jwchan1996/mini-vue)
+[![PPAP.live](https://github-readme-stats.vercel.app/api/pin/?username=ppap6&repo=PPAP.live)](https://github.com/ppap6/PPAP.live)
 [![mini-vue-router](https://github-readme-stats.vercel.app/api/pin/?username=jwchan1996&repo=vue-router)](https://github.com/jwchan1996/vue-router)
