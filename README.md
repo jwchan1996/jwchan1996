@@ -34,3 +34,5 @@ This is **Jwchan**/**飘香豆腐** from China, base on Guangzhou.
 [![mini-vue](https://github-readme-stats.vercel.app/api/pin/?username=jwchan1996&repo=mini-vue)](https://github.com/jwchan1996/mini-vue)
 [![PPAP.live](https://github-readme-stats.vercel.app/api/pin/?username=ppap6&repo=PPAP.live)](https://github.com/ppap6/PPAP.live)
 [![mini-vue-router](https://github-readme-stats.vercel.app/api/pin/?username=jwchan1996&repo=vue-router)](https://github.com/jwchan1996/vue-router)
+[![PPAP.server](https://github-readme-stats.vercel.app/api/pin/?username=ppap6&repo=PPAP.server)](https://github.com/ppap6/PPAP.server)
+[![PPAP.admin](https://github-readme-stats.vercel.app/api/pin/?username=ppap6&repo=PPAP.admin)](https://github.com/ppap6/PPAP.admin)
